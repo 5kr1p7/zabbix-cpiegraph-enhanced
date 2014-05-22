@@ -3,6 +3,8 @@ Zabbix enhanced pie graph
 
 Enhanced Pie graph for Zabbix.
 
+```patch -ul CPieGraphDraw.php CPieGraphDraw.php-2.2.2.patch```
+
 Screenshots
 -------------------------
 
